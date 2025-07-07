@@ -28,7 +28,6 @@ Tujuan: Menyediakan API yang mudah di-deploy, terpantau, dan siap untuk pengemba
   git clone https://github.com/eka0789/fastapi-sre-app.git
   cd fastapi-sre-app
   ```
-  > Ganti `username` dengan nama pengguna GitHub yang sesuai jika berbeda.
 
 2. **Buat virtual environment (opsional tapi direkomendasikan):**
   ```bash
